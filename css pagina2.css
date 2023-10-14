@@ -1,0 +1,31 @@
+img, figcaption {
+    margin-left: 30px;
+}
+
+h1{
+   margin-left: 15px;
+   background-color: #E1EDF2;
+   padding: 10px;
+}
+
+h2 {
+    margin-left: 15px;
+    border-bottom: 2px solid black;
+}
+
+body{
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#3d3d3d;
+    
+}
+
+figure{
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    padding: 15px;
+    margin: 30px;
+}
